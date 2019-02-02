@@ -6,5 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>ecount-common</module>
+  	<module>ecount-dao</module>
+  	<module>ecount-ws</module>
   </modules>
 </project> 
